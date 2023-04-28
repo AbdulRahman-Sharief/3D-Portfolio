@@ -3,7 +3,7 @@ Here is the live preview : https://3d-portfolio-blush.vercel.app/
 
 this is a portfolio website with some 3D element using React.js library and Three.js
 
-<span>Technologies Used :</span>
+<span style="font-size:bold">Technologies Used :</span>
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 - React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 - TailwindCSS - a popular utility-first CSS styling framework
